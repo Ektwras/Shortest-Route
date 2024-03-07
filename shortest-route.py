@@ -1,6 +1,4 @@
-# Σοφιανόπουλος Έκτορας
-# Σάββας Κοντόπουλος
-# Αντώνης Μιλαθιανάκης
+
 from collections import defaultdict
 import heapq
 
