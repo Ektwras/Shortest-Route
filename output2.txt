@@ -1,0 +1,2 @@
+Shortest path from 1 to 7: 1 -> 2 -> 3 -> 5 -> 7
+Total distance: 16
